@@ -1,2 +1,2 @@
-language = "bash"
-run = ""
+language = "HTML"
+run = "node script.js"
